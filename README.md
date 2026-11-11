@@ -5,6 +5,7 @@ Estudante de Ciência da Computação na Estácio e entusiasta de tecnologia, fo
 ---
 
 💻 Stack Tecnológica & Hard Skills
+
 Desenvolvimento & Banco de Dados: Python, JavaScript, PHP, MySQL, PostgreSQL, Orientação a Objetos
 
 Redes & Infraestrutura: Redes de Computadores (Do Básico ao Avançado), Sub-redes e IPv4, Arquitetura de Redes, LAN/WLAN, Servidores e Sistemas Operacionais
