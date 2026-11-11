@@ -41,3 +41,5 @@ Estudante de Ciência da Computação na Estácio e entusiasta de tecnologia, fo
 ### Contato
 - E-mail: cutrimgabriel5@gmail.com
 - Localização: São Luís, MA — Brasil
+- WhatsApp: 98 98912-8459
+- Instagram: cutrim211
