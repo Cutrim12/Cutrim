@@ -34,7 +34,7 @@ Estudante de Ciência da Computação na Estácio e entusiasta de tecnologia, fo
 
 ### Experiência Profissional
 * NM DES CUTRIM — Auxiliar Administrativo (01/2022 - Atual)
-  * Apoio na organização de documentos, arquivos e otimização de processos operacionais e fluxo de informações da equipa.
+  * Apoio na organização de documentos, arquivos e otimização de processos operacionais.
 
 ---
 
